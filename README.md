@@ -1,5 +1,3 @@
-
-
 # Hi, I'm Rahul Sinha 👋
 
 ### AI Engineer | Agentic AI | Generative AI | LLMs & RAG | Computer Vision | AI Research
@@ -200,7 +198,3 @@ I'm interested in collaborating on AI engineering, applied research, open-source
 - **IEEE Research:** [IEEE Xplore](https://ieeexplore.ieee.org/document/10919331)
 
 Feel free to connect for technical discussions, research collaborations, and opportunities to build impactful AI systems.
-
----
-
-\<p align="center">   \<i>Building intelligent systems through engineering, experimentation, and research.\</i> \</p>
